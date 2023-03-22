@@ -1,0 +1,3 @@
+echo " print this second file ";
+echo " how to print second file data in name of this file :";
+

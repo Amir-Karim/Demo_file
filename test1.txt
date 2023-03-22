@@ -1,0 +1,6 @@
+Hello this is testing file which i am adding in this file so that we can use in our project . 
+to learn git it is important
+echo "how to use Git hub in your intellij ";
+echo ' Kaise print hota hai ';
+echo " how to link this file with git repository"
+
